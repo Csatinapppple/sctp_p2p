@@ -4,3 +4,5 @@
 para adicionar clientes ao sistema, no computador do cliente ponha o endereco
 do servidor, o servidor vai adicionar o novo cliente a uma pasta txt no qual
 o cliente lé a cada bye que der de entrada dentro das iterações do SERVER
+para ciclar o servidor que esta enviando, digite bye, para fazer um pedido
+de leitura do tcpdump, digite sniff(não funciona)
